@@ -18,10 +18,10 @@
 
 <img width="566" alt="image" src="https://github.com/user-attachments/assets/6911d25f-ece4-4341-aba6-b6ad7eb8d0e9" />
 
-
 **软件二：AppStore商店搜索：V2Box**
 
 **免费。功能多，广告多**
+
 <img width="567" alt="image" src="https://github.com/user-attachments/assets/29997b02-f970-4dda-8d45-4b02c071e9b2" />
 
 如果其中一个软件有问题，可切换另外软件尝试
