@@ -16,13 +16,13 @@
 
 **功能少，简洁，无广告，无测速。**
 
-![image.png](attachment:296a3ea3-1c63-4af9-96f9-a59089036c22:image.png)
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/6911d25f-ece4-4341-aba6-b6ad7eb8d0e9" />
+
 
 **软件二：AppStore商店搜索：V2Box**
 
 **免费。功能多，广告多**
-
-![image.png](attachment:ce6eb568-6962-406e-80c9-a546d13b69a2:image.png)
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/29997b02-f970-4dda-8d45-4b02c071e9b2" />
 
 如果其中一个软件有问题，可切换另外软件尝试
 
